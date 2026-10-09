@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="fidelforge's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
   <img src="https://lh3.googleusercontent.com/pw/AP1GczNNTPsVz_Ir6VdfSOxGHMSuRyPxJJbkA7cQXTdw42mgL3zYVXux8an_eha3CXk3VrF6Db_BOS5G9BeeNshwxoKsJmdkvKLRitB6ZWPaY_gGX6wKuAE=w2400" 
        style="width: 100%; max-width: 1100px; border-radius: 20px; box-shadow: 0 0 50px rgba(0, 255, 200, 0.25);" alt="hero" />
